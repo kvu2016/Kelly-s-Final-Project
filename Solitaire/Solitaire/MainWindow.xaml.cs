@@ -31,6 +31,7 @@ namespace Solitaire
 
         private void btndeal_Click(object sender, RoutedEventArgs e)
         {
+            //creating list and adding images to it
             List<string> listofcards = new List<string>();
             listofcards.Add("spades1");
             listofcards.Add("spades2");
@@ -87,6 +88,7 @@ namespace Solitaire
  
             List<string> listofimages = new List<string>();
 
+            //randomly generate cards to deal out
             var random = new Random();
 
             for (int i = 0; i < 8; i++)
@@ -94,6 +96,7 @@ namespace Solitaire
                 int index = random.Next(listofcards.Count);
                 listofimages.Add(@"C:\Users\14052\source\repos\kvu2016\Kelly-s-Final-Project\Solitaire\Solitaire\Images\" + listofcards[index].ToString() + ".gif");
             }
+            //setting images to image box
             Card0.Source = new BitmapImage(new Uri(listofimages[0]));
             Card1.Source = new BitmapImage(new Uri(listofimages[1]));
             Card2.Source = new BitmapImage(new Uri(listofimages[2]));

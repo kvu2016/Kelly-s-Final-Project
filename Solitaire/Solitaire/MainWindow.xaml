@@ -8,35 +8,35 @@
         Title="MainWindow" Height="450" Width="800" Background="#FF60AD0C">
     <Grid>
         <Image HorizontalAlignment="Left" Height="57" Margin="25,28,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card1" HorizontalAlignment="Left" Height="57" Margin="25,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
-        <Image x:Name="Card0" HorizontalAlignment="Left" Height="57" Margin="94,28,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs10.gif"/>
+        <Image x:Name="Card1" HorizontalAlignment="Left" Height="57" Margin="25,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
+        <Image x:Name="Card0" HorizontalAlignment="Left" Height="57" Margin="94,28,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="134,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="595,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="476,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="344,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="231,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,122,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card2" HorizontalAlignment="Left" Height="57" Margin="134,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card2" HorizontalAlignment="Left" Height="57" Margin="134,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="231,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="344,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="476,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="595,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,146,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card3" HorizontalAlignment="Left" Height="57" Margin="231,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card3" HorizontalAlignment="Left" Height="57" Margin="231,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="344,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="476,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="595,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,165,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card4" HorizontalAlignment="Left" Height="57" Margin="344,184,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card4" HorizontalAlignment="Left" Height="57" Margin="344,184,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="476,184,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="595,184,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,184,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card5" HorizontalAlignment="Left" Height="57" Margin="476,208,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card5" HorizontalAlignment="Left" Height="57" Margin="476,208,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="595,208,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,208,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card6" HorizontalAlignment="Left" Height="57" Margin="595,227,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card6" HorizontalAlignment="Left" Height="57" Margin="595,227,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,227,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
-        <Image x:Name="Card7" HorizontalAlignment="Left" Height="57" Margin="707,246,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
+        <Image x:Name="Card7" HorizontalAlignment="Left" Height="57" Margin="707,246,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Button x:Name="btndeal" Content="Deal" HorizontalAlignment="Left" Margin="366,347,0,0" VerticalAlignment="Top" Width="75" Click="btndeal_Click"/>
         <ListBox HorizontalAlignment="Left" Height="57" Margin="476,10,0,0" VerticalAlignment="Top" Width="38" Background="#FFAEA7A7"/>
         <ListBox HorizontalAlignment="Left" Height="57" Margin="707,10,0,0" VerticalAlignment="Top" Width="38" Background="#FFAEA7A7"/>
