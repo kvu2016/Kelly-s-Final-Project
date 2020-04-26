@@ -6,16 +6,28 @@ using System.Threading.Tasks;
 
 namespace Solitaire
 {
-    private Card[] playerHand;
-    private Card[] computerHand;
-    class Deal: Deck
+   
+    class Deal:Deck
     {
-        public DealCards()
+        private Card[] playerHand;
+        private Card[] computerHand;
+
+        
+        public void deal()
         {
-            playerHand = new Card[5];
-            sortedPlayerHand = new Card[5];
-            computerHand = new Card[5];
-            sortedComputerHand = new Card[5];
+            setUpDeck(); //create the deck of cards and shuffle them
+            getHand();
+         
+        }
+        public void getHand()
+        {
+            //5 cards for the player
+            for (int i = 0; i < 7; i++)
+                playerHand[i] = getcurrentdeck[i];
+
+            //5 cards for the computer
+            for (int i = 7; i < 10; i++)
+                computerHand[i - 7] = getcurrentdeck[i];
         }
     }
 }
