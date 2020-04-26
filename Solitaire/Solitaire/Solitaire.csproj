@@ -97,5 +97,69 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\backblue.gif" />
+    <Resource Include="Images\backbluepattern.gif" />
+    <Resource Include="Images\backx.gif" />
+    <Resource Include="Images\clubs10.gif" />
+    <Resource Include="Images\clubs11.gif" />
+    <Resource Include="Images\clubs12.gif" />
+    <Resource Include="Images\clubs13.gif" />
+    <Resource Include="Images\clubs3.gif" />
+    <Resource Include="Images\clubs4.gif" />
+    <Resource Include="Images\clubs5.gif" />
+    <Resource Include="Images\clubs6.gif" />
+    <Resource Include="Images\clubs7.gif" />
+    <Resource Include="Images\clubs8.gif" />
+    <Resource Include="Images\clubs9.gif" />
+    <Resource Include="Images\deal.gif" />
+    <Resource Include="Images\deal.png" />
+    <Resource Include="Images\diamonds1.gif" />
+    <Resource Include="Images\diamonds10.gif" />
+    <Resource Include="Images\diamonds11.gif" />
+    <Resource Include="Images\diamonds12.gif" />
+    <Resource Include="Images\diamonds13.gif" />
+    <Resource Include="Images\diamonds2.gif" />
+    <Resource Include="Images\diamonds3.gif" />
+    <Resource Include="Images\diamonds4.gif" />
+    <Resource Include="Images\diamonds5.gif" />
+    <Resource Include="Images\diamonds6.gif" />
+    <Resource Include="Images\diamonds7.gif" />
+    <Resource Include="Images\diamonds8.gif" />
+    <Resource Include="Images\diamonds9.gif" />
+    <Resource Include="Images\hearts1.gif" />
+    <Resource Include="Images\hearts10.gif" />
+    <Resource Include="Images\hearts11.gif" />
+    <Resource Include="Images\hearts12.gif" />
+    <Resource Include="Images\hearts13.gif" />
+    <Resource Include="Images\hearts2.gif" />
+    <Resource Include="Images\hearts3.gif" />
+    <Resource Include="Images\hearts4.gif" />
+    <Resource Include="Images\hearts5.gif" />
+    <Resource Include="Images\hearts6.gif" />
+    <Resource Include="Images\hearts7.gif" />
+    <Resource Include="Images\hearts8.gif" />
+    <Resource Include="Images\hearts9.gif" />
+    <Resource Include="Images\options.gif" />
+    <Resource Include="Images\spades1.gif" />
+    <Resource Include="Images\spades10.gif" />
+    <Resource Include="Images\spades11.gif" />
+    <Resource Include="Images\spades12.gif" />
+    <Resource Include="Images\spades13.gif" />
+    <Resource Include="Images\spades2.gif" />
+    <Resource Include="Images\spades3.gif" />
+    <Resource Include="Images\spades4.gif" />
+    <Resource Include="Images\spades5.gif" />
+    <Resource Include="Images\spades6.gif" />
+    <Resource Include="Images\spades7.gif" />
+    <Resource Include="Images\spades8.gif" />
+    <Resource Include="Images\spades9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\clubs1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\clubs2.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
