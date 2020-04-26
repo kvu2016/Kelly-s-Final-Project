@@ -24,5 +24,10 @@ namespace Solitaire
         {
             InitializeComponent();
         }
+
+        private void btndeal_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }

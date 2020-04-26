@@ -37,7 +37,7 @@
         <Image HorizontalAlignment="Left" Height="57" Margin="595,227,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,227,0,0" VerticalAlignment="Top" Width="38" Source="Images/backbluepattern.gif"/>
         <Image HorizontalAlignment="Left" Height="57" Margin="707,246,0,0" VerticalAlignment="Top" Width="38" Source="Images/clubs1.gif"/>
-        <Button x:Name="btndeal" Content="Deal" HorizontalAlignment="Left" Margin="366,347,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btndeal" Content="Deal" HorizontalAlignment="Left" Margin="366,347,0,0" VerticalAlignment="Top" Width="75" Click="btndeal_Click"/>
         <ListBox HorizontalAlignment="Left" Height="57" Margin="476,10,0,0" VerticalAlignment="Top" Width="38" Background="#FFAEA7A7"/>
         <ListBox HorizontalAlignment="Left" Height="57" Margin="707,10,0,0" VerticalAlignment="Top" Width="38" Background="#FFAEA7A7"/>
         <ListBox HorizontalAlignment="Left" Height="57" Margin="632,10,0,0" VerticalAlignment="Top" Width="38" Background="#FFAEA7A7"/>
